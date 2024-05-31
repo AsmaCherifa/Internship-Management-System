@@ -19,7 +19,9 @@ ASP.NET MVC: A framework for building web applications using C#.
 Entity Framework : An Object-Relational Mapper (ORM) for interacting with databases.
 SQL Server: A relational database to store internship data.
 
+## Class Diagram
 
+![Class Diagram](https://github.com/AsmaCherifa/Internship-Management-System/assets/66530514/94ed5f85-e235-4e2f-8cea-268798f01bb4)
 
 
 
